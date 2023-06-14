@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package dfstraversal;
 
 import java.util.*;
 
-/**
- *
- * @author FALL-NOU
- */
 public class DFSTraversal {
  private LinkedList<Integer> adj[];
     private boolean visited[];
